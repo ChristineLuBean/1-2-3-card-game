@@ -2,9 +2,9 @@
 
 A two-player card game where each player draws one card per round, compares their values, and determines the winner of that round. The game uses the deckofcardsapi.com API for shuffling and drawing cards. Play continues until there are no cards left in the deck.
 
-**Link to project:** https://dashing-biscotti-7ebde7.netlify.app
+**Link to project:** https://singular-griffin-d676ae.netlify.app/
 
-![alt tag](http://placecorgi.com/1200/650)
+![game board](img/screenshot.png)
 
 ## How It's Made:
 
